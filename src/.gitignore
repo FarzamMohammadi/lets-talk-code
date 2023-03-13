@@ -1,0 +1,14 @@
+# Visual Studio Code workspace options
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+.vs/*
+
+# Apple
+.DS_Store
+
+# JetBrains Rider
+.idea/*
