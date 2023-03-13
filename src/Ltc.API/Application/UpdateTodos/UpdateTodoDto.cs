@@ -1,4 +1,4 @@
-namespace Ltc.API.Application.CreateTodos;
+namespace Ltc.API.Application.UpdateTodos;
 
 public class UpdateTodoDto
 {

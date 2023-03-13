@@ -1,6 +1,6 @@
 ﻿using Ltc.API.Domain;
 
-namespace Ltc.API.Application;
+namespace Ltc.API.Application.CreateTodos;
 
 public class CreateTodo
 {

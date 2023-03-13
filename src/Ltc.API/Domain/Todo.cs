@@ -11,6 +11,11 @@ public class Todo
     }
 
 
+    /// <summary>
+    /// ?
+    /// </summary>
+    /// <param name="title"></param>
+    /// <returns></returns>
     public bool UpdateTitle(string title)
     {
         if (string.IsNullOrWhiteSpace(title))
@@ -21,25 +26,5 @@ public class Todo
         Title = title;
 
         return true;
-    }
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    public Todo Find(long dtoId)
-    {
-        throw new NotImplementedException();
     }
 }

@@ -1,4 +1,4 @@
-namespace Ltc.API.Application;
+namespace Ltc.API.Application.CreateTodos;
 
 public class CreateTodoDto
 {

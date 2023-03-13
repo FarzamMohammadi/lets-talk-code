@@ -4,21 +4,25 @@
 
 - What does this mean?
   - Good names.
+    - Self explanatory, context aware.
   - Naming conventions.
+    - C# naming conventions as a base <sup>[2](#references)</sup>.
+      - Excluding the use of Async as suffix for every async method.
+      - Excluding the use of Enum as a suffix for enums.
   - Semantic conditionals:
-    - Makes sense when you have 2-3 or more conditions.
+    - Makes sense when you have 2-3 or more conditions <sup>[1](#references)</sup>.
       - if(hero.powerLevel > villain.powerLevel && hero.energy > 10 && !villain.monsterMode)
       - if(hero.CanDefeat(villain))
   - Lines of code per method?
     - How much is too much?
-      - No definition, just don't get to very high amounts, > 200, 300.
+      - No definition, just don't get to very high amounts, > 200, > 300.
   - How many arguments in a method?
     - How much is too much?
       - No definition, sometimes some parameters make more sense than a class of parameters.
     - Why does a method has too many arguments?
       - Is it doing too much?
 
-## Self explanatory:
+## Self explanatory <sup>[1](#references)</sup>:
 
 - What does this mean?
   - Does this happens when it's easy to read?
@@ -105,7 +109,7 @@ Then our code reviews can focus on checks that can’t be automated:
 - What's a module?
 - What benefits do we get from modularity?
 
-## Follows a pattern:
+## Follows a pattern - Has Architecture?:
 
 - DDD:
   - What can we use from this?
@@ -123,7 +127,7 @@ Then our code reviews can focus on checks that can’t be automated:
 
 # Answering Jaime's question
 
-1. How much [Unit] test is enough?
+1. How much **Unit** test is enough?
    1. The amount needed to test the complexity of your code.
 
 # What we can do from now on:
@@ -134,3 +138,4 @@ Then our code reviews can focus on checks that can’t be automated:
 # References
 
 1. [John Papa - Ready for Readable Code? - John Papa](https://youtu.be/56mETnrByBM)
+2. [C# Naming conventions](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)

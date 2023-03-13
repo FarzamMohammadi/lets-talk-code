@@ -1,4 +1,4 @@
-namespace Ltc.API.Domain;
+namespace Ltc.API.Application;
 
 public interface IUnitOfWork
 {
