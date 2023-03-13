@@ -1,0 +1,142 @@
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Ltc.API.exe
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Ltc.API.deps.json
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Ltc.API.runtimeconfig.json
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Ltc.API.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Ltc.API.pdb
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.csproj.AssemblyReference.cache
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.AssemblyInfoInputs.cache
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.AssemblyInfo.cs
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.csproj.CoreCompileInputs.cache
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\staticwebassets\msbuild.Ltc.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Ltc.API.props
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ltc.API.props
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ltc.API.props
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\scopedcss\bundle\Ltc.API.styles.css
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.csproj.CopyComplete
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\refint\Ltc.API.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.pdb
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.genruntimeconfig.cache
+C:\Users\Jensen\OneDrive - OCAS\Desktop\Let's Talk Code\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\ref\Ltc.API.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Ltc.API.exe
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Ltc.API.deps.json
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Ltc.API.runtimeconfig.json
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Ltc.API.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Ltc.API.pdb
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.csproj.AssemblyReference.cache
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.AssemblyInfoInputs.cache
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.AssemblyInfo.cs
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.csproj.CoreCompileInputs.cache
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\staticwebassets\msbuild.Ltc.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Ltc.API.props
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ltc.API.props
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ltc.API.props
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\scopedcss\bundle\Ltc.API.styles.css
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.csproj.CopyComplete
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\refint\Ltc.API.dll
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.pdb
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\Ltc.API.genruntimeconfig.cache
+C:\Users\Jensen\OneDrive - OCAS\Desktop\LetsTalkCode\src\Ltc.API\obj\Debug\net7.0\ref\Ltc.API.dll

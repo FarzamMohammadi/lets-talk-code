@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "ohqCTKZWhjZRAGN3/JV1H0Ozk7XIddiyWYJeMs1DN7E=",
+  "Source": "Ltc.IntegrationTests",
+  "BasePath": "_content/Ltc.IntegrationTests",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Jensen\\OneDrive - OCAS\\Desktop\\LetsTalkCode\\src\\Ltc.API\\Ltc.API.csproj",
+      "Version": 2,
+      "Source": "Ltc.API",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

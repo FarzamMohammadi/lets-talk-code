@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2+a0Z3zusLqfjZ2FDb8YanM5lPGQgselDAy1GsZlYP0=",
+  "Source": "Ltc.API",
+  "BasePath": "_content/Ltc.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
