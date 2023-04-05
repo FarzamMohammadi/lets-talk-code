@@ -4,14 +4,14 @@ namespace Ltc.API.Application.CreateTodos;
 
 public class CreateTodo
 {
-    private readonly IUnitOfWork _db;
+    private readonly IUnitOfWork _unitOfWork;
 
     // Repository - Query Objects
     // Unit of Work - Tracks objects retrieve from external resource 
 
-    public CreateTodo(IUnitOfWork db)
+    public CreateTodo(IUnitOfWork unitOfWork)
     {
-        _db = db;
+        _unitOfWork = unitOfWork;
     }
 
     public void Create(CreateTodoDto dto)
@@ -23,7 +23,7 @@ public class CreateTodo
 
         var todo = new Todo(dto.Title);
 
-        _db.Add(todo);
-        _db.Complete();
+        _unitOfWork.Todos.Add(todo);
+        _unitOfWork.Complete();
     }
 }

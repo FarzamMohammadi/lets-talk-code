@@ -1,5 +1,4 @@
 using Ltc.API.Application;
-using Ltc.API.Domain;
 using Ltc.API.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 

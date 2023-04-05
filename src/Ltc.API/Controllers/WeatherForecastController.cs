@@ -1,7 +1,5 @@
 using Ltc.API.Application;
-using Ltc.API.Domain;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace Ltc.API.Controllers;
 

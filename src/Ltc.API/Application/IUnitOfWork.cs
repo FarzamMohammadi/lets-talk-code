@@ -1,7 +1,9 @@
+using Ltc.API.Infrastructure.Repositories.TodoRepository;
+
 namespace Ltc.API.Application;
 
 public interface IUnitOfWork
 {
-    void Add<T>(T obj);
-    void Complete();
+    ITodoRepository Todos { get; }
+    Task Complete(CancellationToken cancellationToken = default);
 }
