@@ -1,8 +1,9 @@
 ﻿using Ltc.API.Domain;
 using Ltc.API.Infrastructure;
+using Ltc.API.Infrastructure.Repositories.TodoRepositories;
 using Microsoft.EntityFrameworkCore;
 
-namespace Ltc.IntegrationTests.Infrastructure.Repositories.TodoRepository;
+namespace Ltc.IntegrationTests.Infrastructure.Repositories.TodoRepositories;
 
 public class TodoRepositoryTests
 {
@@ -18,7 +19,7 @@ public class TodoRepositoryTests
 
         var context = new DataContext(options.Options);
 
-        var todoRepository = new API.Infrastructure.Repositories.TodoRepository.TodoRepository(context);
+        var todoRepository = new TodoRepository(context);
 
         var title = "Testing";
         todoRepository.Add(new Todo(title));

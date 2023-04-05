@@ -1,5 +1,5 @@
 using Ltc.API.Application;
-using Ltc.API.Infrastructure.Repositories.TodoRepository;
+using Ltc.API.Infrastructure.Repositories.TodoRepositories;
 
 namespace Ltc.API.Infrastructure;
 
