@@ -2,7 +2,7 @@ using Ltc.API.Domain;
 using Ltc.API.Infrastructure.Repositories.Base;
 using Microsoft.EntityFrameworkCore;
 
-namespace Ltc.API.Infrastructure.Repositories.TodoRepositories;
+namespace Ltc.API.Infrastructure.Repositories.Todos;
 
 public class TodoRepository : Repository<Todo>, ITodoRepository
 {

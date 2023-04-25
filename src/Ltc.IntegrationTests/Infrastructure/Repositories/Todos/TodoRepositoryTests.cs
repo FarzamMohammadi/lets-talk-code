@@ -1,9 +1,9 @@
 ﻿using Ltc.API.Domain;
 using Ltc.API.Infrastructure;
-using Ltc.API.Infrastructure.Repositories.TodoRepositories;
+using Ltc.API.Infrastructure.Repositories.Todos;
 using Microsoft.EntityFrameworkCore;
 
-namespace Ltc.IntegrationTests.Infrastructure.Repositories.TodoRepositories;
+namespace Ltc.IntegrationTests.Infrastructure.Repositories.Todos;
 
 public class TodoRepositoryTests
 {

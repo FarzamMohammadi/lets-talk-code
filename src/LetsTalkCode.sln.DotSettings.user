@@ -4,5 +4,18 @@
     &lt;TestId&gt;xUnit::70FAC2E8-DB99-42E8-AFFE-AC7C031C3B0C::net7.0::Ltc.IntegrationTests.UnitOfWorkTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::5101FDA5-5AEF-4CD4-95E1-9DAEA04E3064::net7.0::Ltc.Tests.Application.CreateTodoTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::70FAC2E8-DB99-42E8-AFFE-AC7C031C3B0C::net7.0::Ltc.IntegrationTests.Infrastructure.Repositories.TodoRepository.TodoRepositoryTests.WithTitle_WithExistingTitleForATodo_ReturnsThatTodo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5101FDA5-5AEF-4CD4-95E1-9DAEA04E3064::net7.0::Ltc.Tests.Domain.Orders.OrderTests.AddItem_AddingAProdduct_OrderItemsIsUpdatedWithProvidedProduct&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5101FDA5-5AEF-4CD4-95E1-9DAEA04E3064::net7.0::Ltc.Tests.Domain.Orders.OrderTests.AddItem_WhenAddingAnItem_UpdateTotalAmountBeforeTax&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5101FDA5-5AEF-4CD4-95E1-9DAEA04E3064::net7.0::Ltc.Tests.Domain.Orders.OrderTests.AddItem_WhenAddingAnItem_UpdateTotalTax&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5101FDA5-5AEF-4CD4-95E1-9DAEA04E3064::net7.0::Ltc.Tests.Domain.Orders.OrderTests.AddItem_WhenAddingAnItem_TotalAmount&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5101FDA5-5AEF-4CD4-95E1-9DAEA04E3064::net7.0::Ltc.Tests.Domain.Orders.OntarioTaxCalculatorTests.CalculateTax_WhenCalled_ReturnsTheCorrectTax&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5101FDA5-5AEF-4CD4-95E1-9DAEA04E3064::net7.0::Ltc.Tests.Domain.Orders.OrderTests.AddItem_WhenAddingAnItem_DoesntThrowArgumentException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5101FDA5-5AEF-4CD4-95E1-9DAEA04E3064::net7.0::Ltc.Tests.Domain.Orders.OrderTests.SetStatus_WithCreatedStatus_AssignOrderStatus&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5101FDA5-5AEF-4CD4-95E1-9DAEA04E3064::net7.0::Ltc.Tests.Domain.Orders.OrderTests.SetStatus_WithShippedStatus_AssignOrderStatus&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5101FDA5-5AEF-4CD4-95E1-9DAEA04E3064::net7.0::Ltc.Tests.Domain.Orders.OrderTests.SetStatus_WithPaidStatus_ThrowInvalidOperationException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5101FDA5-5AEF-4CD4-95E1-9DAEA04E3064::net7.0::Ltc.Tests.Domain.Orders.OrderTests.SetStatus_WithCreatedStatus_ThrowInvalidOperationException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5101FDA5-5AEF-4CD4-95E1-9DAEA04E3064::net7.0::Ltc.Tests.Domain.Orders.OrderTests.SetStatus_WithShippedStatus_AssignOrderStatus1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5101FDA5-5AEF-4CD4-95E1-9DAEA04E3064::net7.0::Ltc.Tests.Domain.Orders.OrderTests.SetStatus_WithDeliveredStatus_ThrowInvalidOperationException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5101FDA5-5AEF-4CD4-95E1-9DAEA04E3064::net7.0::Ltc.Tests.Domain.Orders.OrderTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

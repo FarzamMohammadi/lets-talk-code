@@ -9,6 +9,11 @@ public abstract class Repository<T> : IRepository<T> where T : class
         Context = context;
     }
 
+    public async Task<T?> Find<TK>(TK id)
+    {
+        return await Context.Set<T>().FindAsync(id);
+    }
+
     public void Add(T entity)
     {
         Context.Set<T>().Add(entity);
@@ -17,6 +22,11 @@ public abstract class Repository<T> : IRepository<T> where T : class
     public void AddRange(params T[] entities)
     {
         Context.Set<T>().AddRange(entities);
+    }
+
+    public void Update(T entity)
+    {
+        Context.Set<T>().Attach(entity);
     }
 
     public void Remove(T entity)
